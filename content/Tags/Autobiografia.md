@@ -1,6 +1,7 @@
 ---
-lastSync: Thu May 22 2025 16:07:11 GMT+0200 (Ora legale dell’Europa centrale)
+lastSync: Mon Jun 23 2025 15:06:01 GMT+0200 (Ora legale dell’Europa centrale)
 aliases:
   - "#Autobiografia"
   - Autobiografismo
+  - autobiografico
 ---

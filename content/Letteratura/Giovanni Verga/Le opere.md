@@ -1,5 +1,5 @@
 ---
-lastSync: Thu Jun 12 2025 13:16:53 GMT+0200 (Ora legale dell’Europa centrale)
+lastSync: Mon Jun 23 2025 14:30:54 GMT+0200 (Ora legale dell’Europa centrale)
 ---
 ## La produzione pre-verista
 Gli esordi letterari di Verga sono legati agli schemi del romanzo storico-patriottico. Successivamente l'autore si dedica a opere di gusto tardoromantico e di ambientazione borghese.
@@ -13,9 +13,9 @@ Verga sperimenta un nuovo tipo di racconto, con una diversa ambientazione e **pe
 ### Vita dei campi
 Anche il genere della novella incontra un particolare favore nella produzione degli autori naturalisti e veristi. La raccolta *Vita dei campi*, edita nel 1880, rappresenta l'**inizio della stagione verista**: si compone di 8 testi, per lo più ambientati nella **campagna siciliana** e incentrati su **passioni elementari e incontrollabili**, destinate a una fine tragica. I temi principali sono l'amore, vissuto come **sentimento lacerante e trasgressivo**.
 
-#### [[Rosso Malpelo.md]]
+#### [[Rosso Malpelo]]
 
-### [[I Malavoglia.md]]
+### [[I Malavoglia]]
 Con *I Malavoglia* Verga dà inizio a un ciclo narrativo, *I Vinti*.
 
 ### Novelle rusticane

@@ -1,7 +1,7 @@
 ---
-lastSync: Thu Jun 12 2025 13:33:55 GMT+0200 (Ora legale dell’Europa centrale)
+lastSync: Mon Jun 23 2025 14:32:08 GMT+0200 (Ora legale dell’Europa centrale)
 ---
-## I contenuti tematici
+## **I contenuti tematici**
 ### L'esclusione del "diverso"
 Malpelo è l'emblema dell'esclusione. A causa di un pregiudizio diffuso negli ambienti popolari, tutti lo emarginano ritenendolo un cattivo soggetto per il colore dei capelli. Perfino la madre e la sorella lo maltrattano. Soltanto il padre, morto nella miniera in cui lavora il ragazzo, gli ha mostrato affetto.; anche egli era, come il figlio, ultimo fra gli ultimi: l'unico ad accettare, per una paga modesta, un lavoro rischioso che lo aveva portato alla morte.
 
