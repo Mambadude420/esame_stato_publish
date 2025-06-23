@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"386ef8ddbe33ef84","type":"file","file":"Letteratura/Umberto Saba/Umberto Saba.md","x":-226,"y":-114,"width":726,"height":694},
+		{"id":"c65c9e6f12e4cd53","type":"file","file":"Letteratura/Umberto Saba/1. La vita.md","x":-226,"y":926,"width":726,"height":1100},
+		{"id":"21d52897518da259","type":"file","file":"Letteratura/Umberto Saba/2. Le opere.md","x":-226,"y":2406,"width":726,"height":620},
+		{"id":"a3d7e75964f5b011","type":"file","file":"Letteratura/Umberto Saba/3. I grandi temi.md","x":-226,"y":3350,"width":726,"height":690},
+		{"id":"9b9e2717036da110","type":"file","file":"Letteratura/Umberto Saba/L'opera - Il canzoniere/3. Lo stile.md","x":960,"y":3006,"width":726,"height":560},
+		{"id":"a2575eca33c085e9","type":"file","file":"Letteratura/Umberto Saba/L'opera - Il canzoniere/4. I testi.md","x":960,"y":3690,"width":726,"height":560},
+		{"id":"10190fa70514ed42","type":"file","file":"Letteratura/Umberto Saba/L'opera - Il canzoniere/Il canzoniere.md","x":960,"y":-114,"width":726,"height":460},
+		{"id":"ce96141dd2981f18","type":"file","file":"Letteratura/Umberto Saba/L'opera - Il canzoniere/1. Il libro di una vita.md","x":960,"y":742,"width":726,"height":540},
+		{"id":"2e7808fd4e548d00","type":"file","file":"Letteratura/Umberto Saba/L'opera - Il canzoniere/2. I temi.md","x":960,"y":1562,"width":726,"height":1240},
+		{"id":"864fcf047fa8055f","type":"file","file":"Letteratura/Umberto Saba/L'opera - Il canzoniere/Mio padre è stato per me l'assassino.md","x":2160,"y":3380,"width":726,"height":1180},
+		{"id":"24a94977e84c4cd0","type":"file","file":"Letteratura/Umberto Saba/L'opera - Il canzoniere/Città vecchia.md","x":2160,"y":1730,"width":726,"height":1220},
+		{"id":"f1f6b226b4fb8cf6","type":"file","file":"Letteratura/Umberto Saba/L'opera - Il canzoniere/La capra.md","x":2160,"y":352,"width":726,"height":1034}
+	],
+	"edges":[
+		{"id":"302ce24965ea7f05","fromNode":"ce96141dd2981f18","fromSide":"bottom","toNode":"2e7808fd4e548d00","toSide":"top"},
+		{"id":"000ab6b79ce67e5e","fromNode":"2e7808fd4e548d00","fromSide":"bottom","toNode":"9b9e2717036da110","toSide":"top"},
+		{"id":"b20849ca3f43b922","fromNode":"9b9e2717036da110","fromSide":"bottom","toNode":"a2575eca33c085e9","toSide":"top"},
+		{"id":"568a8d380dc51ef2","fromNode":"386ef8ddbe33ef84","fromSide":"bottom","toNode":"c65c9e6f12e4cd53","toSide":"top"},
+		{"id":"6a9b9c713226ca94","fromNode":"c65c9e6f12e4cd53","fromSide":"bottom","toNode":"21d52897518da259","toSide":"top"},
+		{"id":"5851757a668d89eb","fromNode":"21d52897518da259","fromSide":"bottom","toNode":"a3d7e75964f5b011","toSide":"top"},
+		{"id":"cc266acf87a39167","fromNode":"21d52897518da259","fromSide":"right","toNode":"10190fa70514ed42","toSide":"left"},
+		{"id":"21993b509560c92a","fromNode":"10190fa70514ed42","fromSide":"bottom","toNode":"ce96141dd2981f18","toSide":"top"},
+		{"id":"e090d31dc21ce8c7","fromNode":"a2575eca33c085e9","fromSide":"right","toNode":"f1f6b226b4fb8cf6","toSide":"left"},
+		{"id":"75461e900e24f7fc","fromNode":"a2575eca33c085e9","fromSide":"right","toNode":"864fcf047fa8055f","toSide":"left"},
+		{"id":"75ab1ec458e297ea","fromNode":"a2575eca33c085e9","fromSide":"right","toNode":"24a94977e84c4cd0","toSide":"left"}
+	]
+}

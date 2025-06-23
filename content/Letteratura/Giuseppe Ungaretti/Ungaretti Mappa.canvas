@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"07a45167bcf4d8aa","type":"file","file":"Letteratura/Giuseppe Ungaretti/Giuseppe Ungaretti.md","x":-1840,"y":-2985,"width":840,"height":765},
+		{"id":"d96f23a3f8316f96","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/1. Una gestazione complessa.md","x":-1840,"y":-2000,"width":840,"height":530},
+		{"id":"79207488fef2621b","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/2. La struttura e i temi.md","x":-1840,"y":-1280,"width":840,"height":2030},
+		{"id":"7efe0773aef1c339","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/3. La rivoluzione stilistica.md","x":-1840,"y":900,"width":840,"height":1400},
+		{"id":"01047890a60872ab","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/4. I testi.md","x":-1840,"y":2440,"width":840,"height":990},
+		{"id":"27ade7f833355ac8","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/Veglia.md","x":-320,"y":-3000,"width":840,"height":1040},
+		{"id":"eb254496cb3f240f","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/Sono una creatura.md","x":-320,"y":-1800,"width":840,"height":1360},
+		{"id":"9872e5930dddd069","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/I fiumi.md","x":-320,"y":-280,"width":840,"height":2360},
+		{"id":"6e3bac42008cfbe5","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/San Martino del Carso.md","x":-320,"y":2240,"width":840,"height":760},
+		{"id":"436e4bd3ea693e38","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/Mattina.md","x":-320,"y":3160,"width":840,"height":480},
+		{"id":"0b50b29bce4d907b","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/Soldati.md","x":-320,"y":3800,"width":840,"height":840},
+		{"id":"a5facf6ea616667b","type":"file","file":"Letteratura/Giuseppe Ungaretti/L'opera - L'allegria/Analogia.md","x":-2420,"y":1430,"width":527,"height":341}
+	],
+	"edges":[
+		{"id":"7b4bf7ea3da0957d","fromNode":"d96f23a3f8316f96","fromSide":"bottom","toNode":"79207488fef2621b","toSide":"top"},
+		{"id":"af05b84f90057724","fromNode":"79207488fef2621b","fromSide":"bottom","toNode":"7efe0773aef1c339","toSide":"top"},
+		{"id":"a7294d086e7e6b9a","fromNode":"7efe0773aef1c339","fromSide":"bottom","toNode":"01047890a60872ab","toSide":"top"},
+		{"id":"61fbe414e6b11654","fromNode":"07a45167bcf4d8aa","fromSide":"bottom","toNode":"d96f23a3f8316f96","toSide":"top"},
+		{"id":"04a7b6d6f8675bfc","fromNode":"7efe0773aef1c339","fromSide":"left","toNode":"a5facf6ea616667b","toSide":"right"},
+		{"id":"78dd99099bacb438","fromNode":"01047890a60872ab","fromSide":"right","toNode":"27ade7f833355ac8","toSide":"left"},
+		{"id":"e3c43a51e743ccce","fromNode":"01047890a60872ab","fromSide":"right","toNode":"eb254496cb3f240f","toSide":"left"},
+		{"id":"8273e79a1b5b4699","fromNode":"01047890a60872ab","fromSide":"right","toNode":"9872e5930dddd069","toSide":"left"},
+		{"id":"874c91d246262da5","fromNode":"01047890a60872ab","fromSide":"right","toNode":"6e3bac42008cfbe5","toSide":"left"},
+		{"id":"0d4001795b9f44ed","fromNode":"01047890a60872ab","fromSide":"right","toNode":"436e4bd3ea693e38","toSide":"left"},
+		{"id":"8b9992aa5c9d0688","fromNode":"01047890a60872ab","fromSide":"right","toNode":"0b50b29bce4d907b","toSide":"left"}
+	]
+}

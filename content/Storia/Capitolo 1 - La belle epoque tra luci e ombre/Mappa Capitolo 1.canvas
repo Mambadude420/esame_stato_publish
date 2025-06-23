@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3907f4f11c34b6f8","type":"file","file":"Storia/Capitolo 1 - La belle epoque tra luci e ombre/1. La belle epoque, un età di progresso.md","x":-237,"y":-127,"width":400,"height":2967},
+		{"id":"27aeeabcc58aaca6","type":"file","file":"Storia/Capitolo 1 - La belle epoque tra luci e ombre/2. La nascita della società di massa.md","x":240,"y":-127,"width":400,"height":2167},
+		{"id":"e1483b27b008d3a8","type":"file","file":"Storia/Capitolo 1 - La belle epoque tra luci e ombre/3. La partecipazione politica delle masse, l'istruzione e la questione femminile.md","x":740,"y":-127,"width":400,"height":1047},
+		{"id":"df6f56efbe5ca183","type":"file","file":"Storia/Capitolo 1 - La belle epoque tra luci e ombre/4. Lotta di classe e interclassismo.md","x":1260,"y":-127,"width":400,"height":524}
+	],
+	"edges":[]
+}

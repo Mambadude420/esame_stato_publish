@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5102c901499eae23","type":"file","file":"Storia/Capitolo 3 - L'Italia giolittiana/2. Economia e società durante l'età giolittiana.md","x":-325,"y":-110,"width":400,"height":3166},
+		{"id":"29c621470445e0cb","type":"file","file":"Storia/Capitolo 3 - L'Italia giolittiana/3. La politica estera italiana e la guerra di Libia.md","x":120,"y":-110,"width":400,"height":1030},
+		{"id":"f74e46c93aae93b0","type":"file","file":"Storia/Capitolo 3 - L'Italia giolittiana/4. L'ascesa del nazionalismo e il declino dell'età giolittiana.md","x":565,"y":-110,"width":400,"height":830}
+	],
+	"edges":[]
+}
