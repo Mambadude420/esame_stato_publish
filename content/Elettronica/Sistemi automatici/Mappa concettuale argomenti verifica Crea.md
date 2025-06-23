@@ -116,7 +116,7 @@ lastSync: Thu May 29 2025 21:37:03 GMT+0200 (Ora legale dell’Europa centrale)
     * **Sistemi di Controllo:** Sequenze di blocchi funzionali per l'elaborazione e la gestione dei segnali.
         * **Catena di Acquisizione:** Il percorso del segnale dal trasduttore al microprocessore. Include: Trasduttore (TSD), Preamplificatore (PREAMP) e Filtro (per condizionare il segnale e rimuovere rumore), Multiplexer (MUX) per selezionare tra più canali, Amplificatore (AMPLI), Sample & Hold (S/H) per campionare e mantenere il valore del segnale, Convertitore Analogico-Digitale (ADC) per digitalizzare il segnale, e infine il Microprocessore (µP) per l'elaborazione.
         * **Catena di Distribuzione:** Il percorso del segnale dal microprocessore all'attuatore. Include: Microprocessore (µP), Convertitore Digitale-Analogico (DAC) per convertire il segnale digitale in analogico, Demultiplexer (DEMUX) per distribuire il segnale a più canali, Sample & Hold (S/H), Filtro, Amplificatore (AMPLI) e infine l'Attuatore. È possibile usare un DAC per ogni canale per maggiore complessità e costo. Attuatori a ingresso digitale (es. motore passo-passo) non richiedono DAC, ma possono necessitare di driver di potenza.
-    * **Microcontrollori (µC):** Sistemi integrati che contengono una CPU, memoria e periferiche di I/O su un singolo chip, ideali per sistemi embedded.
+    * **Microcontrollori (µC):** Sistemi integrati che contengono una CPU, memoria e periferiche di I/O su un singolo chip, ideali per sistemi embedded. ^b5ce55
         * **Componenti generali:**
             * **ALU (Arithmetic Logic Unit):** Esegue operazioni aritmetiche e logiche.
             * **Registri generali:** Memorie veloci per l'elaborazione dei dati.

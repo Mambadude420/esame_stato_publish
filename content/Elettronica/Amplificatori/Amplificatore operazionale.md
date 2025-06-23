@@ -1,7 +1,9 @@
 ---
 lastSync: Tue May 13 2025 16:46:37 GMT+0200 (Ora legale dell’Europa centrale)
 ---
-Un amplificatore operazionale, spesso chiamato "op-amp", è un circuito integrato (un piccolo chip elettronico) che si comporta come un amplificatore di tensione ad alto guadagno. In altre parole, prende un segnale di tensione in ingresso (anche molto piccolo) e lo amplifica, producendo un segnale di tensione in uscita molto più grande.
+Un amplificatore operazionale, spesso chiamato "op-amp", è un circuito integrato (un piccolo chip elettronico) che si comporta come un amplificatore di tensione ad alto guadagno.
+
+In altre parole, **prende un segnale di tensione in ingresso (anche molto piccolo) e lo amplifica, producendo un segnale di tensione in uscita molto più grande**. ^506d14
 
 ![[Schema Amplificatore Operazionale Non-invertente.png]]
 
