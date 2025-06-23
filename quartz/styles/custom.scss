@@ -1,3 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.qds-theme-light {
+  h1 { color: #a12c4c; }
+  h2 { color: #4c7ea1; }
+  h3 { color: #5a8a5a; }
+}
+
+.qds-theme-dark {
+  h1 { color: #f39c9c; }
+  h2 { color: #9ccbf3; }
+  h3 { color: #9ced9c; }
+}

@@ -1,4 +1,4 @@
-![[gpt-image-1_Visualizza_un'onda_c.png]]
+![[Segnale d'onda.png]]
 ## L'Immagine:
 #### ITA
 Visualizza un'onda che si propaga nello spazio – non solo un'onda sonora o luminosa, ma un segnale che porta dati, informazioni, messaggi. Potrebbe essere un'onda radio captata da un'antenna, una serie di impulsi binari che viaggiano in un cavo in fibra ottica, o una sinusoide su un oscilloscopio. L'idea è la **trasmissione, la ricezione, la codifica e decodifica di messaggi, l'influenza e la risonanza.**
