@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"782bad4750fabb65","type":"file","file":"Storia/Capitolo 4 - La Prima Guerra Mondiale/1. L'Europa alla vigilia della guerra.md","x":-110,"y":-40,"width":400,"height":1200},
+		{"id":"b915fe4934b9ccbe","type":"file","file":"Storia/Capitolo 4 - La Prima Guerra Mondiale/2. L'Europa in guerra.md","x":335,"y":-40,"width":400,"height":2500},
+		{"id":"d4a6a90df0e23cb5","type":"file","file":"Storia/Capitolo 4 - La Prima Guerra Mondiale/3. Un conflitto nuovo.md","x":780,"y":-40,"width":400,"height":2916},
+		{"id":"da3b5e24f17a1d69","type":"file","file":"Storia/Capitolo 4 - La Prima Guerra Mondiale/4. L'Italia entra in guerra (1915).md","x":1225,"y":-40,"width":400,"height":1920},
+		{"id":"c450f5eff6cccc87","type":"file","file":"Storia/Capitolo 4 - La Prima Guerra Mondiale/5. Un sanguinoso biennio di stallo (1915-1916).md","x":1670,"y":-40,"width":400,"height":1075},
+		{"id":"374214e52b1eda2f","type":"file","file":"Storia/Capitolo 4 - La Prima Guerra Mondiale/6. La svolta nel conflitto e la sconfitta degli Imperi centrali (1917-1918.md","x":2115,"y":-40,"width":400,"height":2593},
+		{"id":"a4245436a776f5d1","type":"file","file":"Storia/Capitolo 4 - La Prima Guerra Mondiale/7. I trattati di pace (1918-1923).md","x":2560,"y":-40,"width":400,"height":2664},
+		{"id":"f517955f35674cf3","type":"file","file":"Storia/Capitolo 4 - La Prima Guerra Mondiale/8. Oltre i trattati, le eredità della guerra.md","x":3005,"y":-40,"width":400,"height":680}
+	],
+	"edges":[]
+}

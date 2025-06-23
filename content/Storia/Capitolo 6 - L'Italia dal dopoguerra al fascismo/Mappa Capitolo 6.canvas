@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"586069069a58a6eb","x":-139,"y":30,"width":400,"height":1667,"type":"file","file":"Storia/Capitolo 6 - L'Italia dal dopoguerra al fascismo/1. La crisi del dopoguerra.md"},
+		{"id":"c9b18ff950519fc8","x":306,"y":30,"width":400,"height":1891,"type":"file","file":"Storia/Capitolo 6 - L'Italia dal dopoguerra al fascismo/2. Il biennio rosso e la nascita del partito comunista.md"},
+		{"id":"a0b2cb6651f85067","x":751,"y":30,"width":400,"height":1811,"type":"file","file":"Storia/Capitolo 6 - L'Italia dal dopoguerra al fascismo/3. La protesta nazionalista.md"},
+		{"id":"cee727df3ba64c3c","x":1196,"y":30,"width":400,"height":1579,"type":"file","file":"Storia/Capitolo 6 - L'Italia dal dopoguerra al fascismo/4. L'avvento del fascismo.md"},
+		{"id":"73cbc1d48ae4407c","x":1641,"y":30,"width":400,"height":2158,"type":"file","file":"Storia/Capitolo 6 - L'Italia dal dopoguerra al fascismo/5. Il fascismo agrario.md"},
+		{"id":"ace105a24caf3e9b","x":2086,"y":30,"width":400,"height":2356,"type":"file","file":"Storia/Capitolo 6 - L'Italia dal dopoguerra al fascismo/6. Il fascismo al potere.md"}
+	],
+	"edges":[]
+}

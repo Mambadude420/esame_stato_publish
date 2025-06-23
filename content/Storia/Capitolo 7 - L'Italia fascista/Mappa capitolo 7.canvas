@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"495d23a63657c6fd","x":-125,"y":150,"width":400,"height":3519,"type":"file","file":"Storia/Capitolo 7 - L'Italia fascista/1. La transizione dello Stato liberale allo Stato fascista.md"},
+		{"id":"a0bc3a5729a743bc","x":320,"y":150,"width":400,"height":1581,"type":"file","file":"Storia/Capitolo 7 - L'Italia fascista/2. L'affermazione della dittatura e la repressione del dissenso.md"},
+		{"id":"4138dd4fa980a684","x":765,"y":150,"width":400,"height":1694,"type":"file","file":"Storia/Capitolo 7 - L'Italia fascista/3. La costruzione del consenso.md"},
+		{"id":"2c68710985e9b70d","x":1210,"y":150,"width":400,"height":2094,"type":"file","file":"Storia/Capitolo 7 - L'Italia fascista/4. La politica economica.md"}
+	],
+	"edges":[]
+}
