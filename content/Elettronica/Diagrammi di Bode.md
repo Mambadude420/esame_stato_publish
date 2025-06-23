@@ -6,7 +6,7 @@ I diagrammi di Bode sono una rappresentazione grafica della risposta in frequenz
 2. Diagramma della fase: Mostra come lo sfasamento tra l'uscita e l'ingresso varia con la frequenza. La fase $\angle G(j \omega)$ è solitamente espressa in gradi.
 
 
----
+# Riferimenti e collegamenti
 ### Precedente
 
 

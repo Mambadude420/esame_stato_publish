@@ -13,7 +13,7 @@ Sono quindi quei dispositivi in grado di convertire energia elettrica in energia
 - Attuatori penumatici o idraulici: utilizzati per generare forze elevate
 
 
----
+# Riferimenti e collegamenti
 ### Precedente
 
 

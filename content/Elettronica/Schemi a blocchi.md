@@ -24,7 +24,7 @@ Y(s) = \frac {G(s)} {1 - G(s) + H(s)}
 $$
 
 
----
+# Riferimenti e collegamenti
 ### Precedente
 
 

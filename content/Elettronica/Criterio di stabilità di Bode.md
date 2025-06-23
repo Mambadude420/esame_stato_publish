@@ -47,7 +47,7 @@ $$
 
 
 
-## Riferimenti e collegamenti
+# Riferimenti e collegamenti
 ### Precedente
 [[Diagrammi di Bode.md]]
 

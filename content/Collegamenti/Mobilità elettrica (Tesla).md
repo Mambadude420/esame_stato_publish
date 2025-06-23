@@ -21,4 +21,4 @@ Gli "[[1.6 Gli anni ruggenti.md|anni ruggenti]]":
 ### [[Elettronica/Elettronica di potenza/DC motors.md|Motore]]
 
 ## Inglese
-### [[Electric cars.md]]
+### [[Electric cars]]

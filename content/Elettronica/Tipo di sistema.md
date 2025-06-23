@@ -15,7 +15,7 @@ Il "tipo" di sistema di controllo ad anello chiuso è determinato dal numero di 
 	- Errore a regime costante e non nullo per un ingresso a parabola
 
 
----
+# Riferimenti e collegamenti
 ### Precedente
 [[Precisione di un sistema.md]]
 

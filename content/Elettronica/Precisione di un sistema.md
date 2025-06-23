@@ -29,7 +29,7 @@ e_{p∞}​= \lim_{ s \to \infty } s^{2} E(s) \left( \frac{1}{1 + G(s) H(s)} \ri
 $$
 La costante $K_{a} = \lim_{ s \to 0 } {s^2} G(s) H(s)$ è detta **costante di errore statico di accelerazione**. L'errore $e_{v \infty}$ sarà nullo se il sistema in catena aperta $G(s)H(s)$ ha almeno tre poli nell'origine (cioè il sistema è di tipo 3 o superiore).
 
----
+# Riferimenti e collegamenti
 ### Precedente
 
 
