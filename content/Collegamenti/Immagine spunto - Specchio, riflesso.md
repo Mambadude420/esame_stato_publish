@@ -1,5 +1,5 @@
 ![[gpt-image-1_L'Immagine__Non_uno_.png]]
-# L'immagine
+## L'immagine
 #### ITA
 Non uno specchio piatto e fedele, ma un'immagine più complessa: uno specchio **deformante**, l'immagine riflessa sull'**acqua increspata**, un riflesso in un **vetro sporco o frammentato**. Oltre alla semplice riproduzione, si parla di come la realtà viene percepita, interpretata, distorta o illusa.
 
@@ -7,6 +7,7 @@ Non uno specchio piatto e fedele, ma un'immagine più complessa: uno specchio **
 Instead of a flat, faithful mirror, consider a more complex image: a **distorting mirror**, an image reflected on **rippled water**, or a reflection in **dirty or fragmented glass**. Beyond simple reproduction, this concept explores how reality is perceived, interpreted, distorted, or even illusory.
 
 ---
+## Collegamenti
 ### Italiano
 #### ITA
 - **Il Decadentismo:** L'immagine è perfetta per Pirandello ("Uno, Nessuno e Centomila", la maschera, la frammentazione dell'io) e Svevo (l'inettitudine, la percezione distorta della realtà). L'arte come specchio della crisi dell'uomo moderno.

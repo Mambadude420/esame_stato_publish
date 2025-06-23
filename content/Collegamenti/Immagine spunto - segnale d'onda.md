@@ -16,6 +16,7 @@ You can discuss its nature (analog/digital), its generation (**oscillators**), i
 #### It's me!
 [[Mappa concettuale argomenti verifica Crea#^b5ce55|Microcontrollori]], [[Amplificatore operazionale#^506d14|Amplificatori]], filtri
 
+---
 ### Italiano
 #### ITA
 La letteratura e l'arte come un **segnale culturale** che si propaga nel tempo. Ogni opera è un messaggio "codificato" dall'autore (l'emittente) che il lettore (il ricevente) deve "decodificare" e interpretare ("Utilizzare gli strumenti per comprendere e contestualizzare, attraverso la lettura e l'interpretazione dei testi"). Le diverse correnti letterarie sono come diverse "frequenze" o "modulazioni" del segnale culturale italiano dall'Unità ad oggi. Il "legame tra le diverse forme espressive" può essere visto come la capacità di un'unica onda di manifestarsi in diverse forme (luce, suono, testo).
@@ -26,6 +27,7 @@ Literature and art as a **cultural signal** propagating through time. Each work 
 #### It's me!
 Just go with "encoded" and "crypted" meanings, so any author and poem/novel that has secret meanings behind me, could be pretty much anyone, so choose someone you like ([[Giuseppe Ungaretti|Ungaretti]]'s [[2. La struttura e i temi#*Il porto sepolto*|porto sepolto]] meaning or [[Giovanni Pascoli]]'s meaning behind the poem "X Agosto"(death of his father))
 
+---
 ### Storia
 #### ITA
 Gli eventi storici come **segnali potenti** che attraversano la società, generando risposte e cambiamenti. Le ideologie politiche o i movimenti sociali come "onde d'urto" che si propagano (es. l'onda del nazionalismo, l'onda del progresso industriale). La capacità di leggere e interpretare i "segnali" del passato per comprendere il presente. I mezzi di comunicazione (radio, televisione, internet) come canali per la propagazione di segnali sempre più veloci e capillari che hanno cambiato il corso della storia.
@@ -36,6 +38,7 @@ Historical events as **powerful signals** that move through society, generating 
 #### It's me!
 **Communication media** for inglese too (telecommunications) ! For storia it could be the increased usage of radios and telecommunications during WW1/WW2, especially for [[Propaganda|propaganda]] purposes.
 
+---
 ### Matematica
 #### ITA
 Il segnale è una **funzione matematica** (es. sinusoide, onda quadra). L'analisi dei segnali (analisi di Fourier) permette di scomporre onde complesse in componenti più semplici. Le trasformazioni e le operazioni sui segnali sono descritte da equazioni differenziali o algebriche. La logica booleana dietro i segnali digitali.
@@ -46,6 +49,7 @@ The signal is a mathematical function (e.g., sine wave, square wave). Signal ana
 #### It's me!
 Can't really think of much, maybe the famous [[Gaussiana|gaussian]] curve?
 
+---
 ### Inglese
 #### ITA
 L'inglese come il **"protocollo" o il "codice" universale** che permette ai segnali di informazione di viaggiare e essere compresi globalmente nel mondo scientifico e tecnologico. La capacità di formulare un messaggio chiaro (un segnale pulito) e di interpretare correttamente i segnali provenienti da altre culture.

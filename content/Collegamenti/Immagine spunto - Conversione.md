@@ -7,6 +7,7 @@ Pensa a un dispositivo che converte un tipo di energia in un altro: un pannello 
 Think of a device that converts one type of energy into another: a **solar panel** that transforms light into electricity, a **microphone** that converts sound into an electrical signal, a **speaker** that does the opposite, a **turbine** that transforms movement into electricity. The core idea here is transformation, a change of state, the ability to mediate between different worlds, and the creation of an output from a different input.
 
 ---
+## Collegamenti
 ### Elettronica/Elettrotecnica/Sistemi Automatici/TPSE
 #### ITA
 La trasduzione è un principio fondamentale. I **trasduttori** sono componenti chiave (sensori che convertono fenomeni fisici in segnali elettrici; **attuatori** che convertono segnali elettrici in movimento o luce). La conversione di energia (AC/DC, potenza) e di segnali (analogico/digitale). La trasformazione di un input complesso (es. una voce) in un output intelligibile (il segnale audio).
