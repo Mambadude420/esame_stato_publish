@@ -15,7 +15,7 @@ The main problem is that need big heavy batteries. The batteries have to be cont
 
 ---
 ### Precedente
-[[Electric cars.md]]
+[[Electric cars]]
 
 ### Successivo
 

@@ -1,3 +1,6 @@
+---
+lastSync: Tue Jun 24 2025 14:28:06 GMT+0200 (Ora legale dell’Europa centrale)
+---
 ![[Segnale d'onda.png]]
 ## L'Immagine:
 #### ITA

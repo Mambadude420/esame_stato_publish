@@ -10,10 +10,10 @@ The **brushless DC motor (BLDC)** eliminates the requirement for a commutator an
 
 ---
 ### Precedente
-[[Types of electric Motor.md]]
+[[Types of electric Motor]]
 
 ### Successivo
 
 
 ### Riferimenti
-[[AC motors.md]]
+[[AC motors]]

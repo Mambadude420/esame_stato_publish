@@ -37,4 +37,4 @@ La costante $K_{a} = \lim_{ s \to 0 } {s^2} G(s) H(s)$ è detta **costante di er
 [[Tipo di sistema.md]]
 
 ### Riferimenti
-[[Transitorio esaurito.md]]
+[[Transitorio esaurito]]

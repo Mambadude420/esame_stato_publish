@@ -15,7 +15,7 @@ In queste poesie, **la guerra non è celebrata, ma vissuta come un'esperienza di
 ## Caratteristiche della sua poetica
 - **Essenzialità:** Ungaretti ricerca la "parola nuda", eliminando il superfluo, la retorica e la punteggiatura tradizionale. Ogni termine acquista un peso e una risonanza particolare.
 - **Verso libero e frammentazione:** Abbandona le strutture metriche tradizionali a favore del verso libero, spesso brevissimo, talvolta ridotto a una singola parola. L'uso degli spazi bianchi e delle pause è fondamentale per creare un ritmo interiore e suggerire silenzi e meditazioni.
-- **[[Analogia.md]]**
+- **[[Analogia]]**
 - **Temi esistenziali:** La sua poesia è intrisa di temi come la solitudine, la morte, la precarietà dell'esistenza, il dolore, la memoria, la ricerca di un senso e di una comunione con l'altro e con l'Assoluto.
 - **[[Autobiografia.md|Autobiografismo]]:** Le sue poesie non spesso datate e geolocalizzate, quasi un diario della sua vita, in cui l'esperienza personali si fa archetipo dell'esperienza umana.
 ## Parole chiavi

@@ -12,10 +12,10 @@ A **synchronous AC motor** operates in a similar way to an induction motor but i
 
 ---
 ### Precedente
-[[Types of electric Motor.md]]
+[[Types of electric Motor]]
 
 ### Successivo
 
 
 ### Riferimenti
-[[Inglese/Unit 3 - Electromagnetism and motors/DC motors.md]]
+[[Inglese/Unit 3 - Electromagnetism and motors/DC motors]]

@@ -23,7 +23,7 @@ La maggior parte dei testi di **Myricae** presenta quadretti di campagna, descri
 Non a caso è proprio l'**infanzia** un altro tema fondamentale di *Myricae*. Sono molte le figure di **bambini** presenti nei componimenti della raccolta. Essi sono per lo più **piangenti**, **tristi**, oppure **poveri** o **malati**: nel loro destino si rifletto le sofferenze private del poeta e le sue paure di fronte al male che pervade il mondo.
 
 #### Il mistero
-Pascoli, da autore decadente, fa dell'**ignoto** il **centro di una sofferta meditazione**, che lo porta a valorizzare, suoni, voci e immagini alla ricerca delle fitte corrispondenze che animano la realtà.
+Pascoli, da autore [[Decadentismo|decadente]], fa dell'**ignoto** il **centro di una sofferta meditazione**, che lo porta a valorizzare, suoni, voci e immagini alla ricerca delle fitte corrispondenze che animano la realtà.
 
 #### Il male e la fuga nel "nido"
 Tuttavia per Pascoli il male e il dolore dell'uomo rimangono insondabili: **a generare la sofferenza non è la natura ma l'uomo sociale**, responsabile dell'odio e della violenza, diverso da quello primitivo, considerato intimamente buono.

@@ -23,7 +23,7 @@ Il "tipo" di sistema di controllo ad anello chiuso è determinato dal numero di 
 
 
 ### Riferimenti
-[[Errore a regime costante e non nullo.md]]
-[[Step input)](Ingresso a gradino (Step input|Ingresso a gradino (Step input)]].md)
-[[Ramp input)](Ingresso a rampa (Ramp input|Ingresso a rampa (Ramp input)]].md)
-[[Parabolic input)](Ingresso a parabola (Parabolic input|Ingresso a parabola (Parabolic input)]].md)
+[[Errore a regime costante e non nullo]]  
+[[Step input)](Ingresso a gradino (Step input|Ingresso a gradino (Step input)]]  
+[[Ramp input)](Ingresso a rampa (Ramp input|Ingresso a rampa (Ramp input)]]  
+[[Parabolic input)](Ingresso a parabola (Parabolic input|Ingresso a parabola (Parabolic input)]]

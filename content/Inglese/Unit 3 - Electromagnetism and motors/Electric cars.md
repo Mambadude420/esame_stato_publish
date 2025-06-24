@@ -14,15 +14,15 @@ Experimental solar cars have large solar panels on the roof to charge the batter
 
 **Hybrid cars** are a combination of conventional and electric. They have a small petrol engine which drives the car at high speeds on the open road. But they also have an electric motor and batteries used for lower speeds, especially in the city. The car can switch from one power system to the other. The motor also function as a generator to recharge the battery.
 
-[[Electric cars, advantages and disadvantages.md|Electric cars: advantages and disadvantages]]
+[[Electric cars, advantages and disadvantages|Electric cars: advantages and disadvantages]]
 
 ---
 ### Precedente
-[[Types of electric motor.md]]
+[[Types of electric motor]]
 
 ### Successivo
-[[Maglev, the transport of the future.md]]
-[[Electric cars, advantages and disadvantages.md]]
+[[Maglev, the transport of the future]]
+[[Electric cars, advantages and disadvantages]]
 
 ### Riferimenti
 #

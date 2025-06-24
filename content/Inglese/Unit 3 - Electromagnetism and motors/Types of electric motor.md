@@ -10,9 +10,9 @@ Normally the stator is a permanent magnet and the metal rotor has coils of wire 
 If **alternating current (AC)** from the mains is used, this reversal in direction happens automatically. The turning power of the motor is called 'torque'. The power is measured in watts and the speed in rpm (revolution per minute).
 Speed and torque depend on the amount of electric current and voltage.
 
-## [[Inglese/Unit 3 - Electromagnetism and motors/DC motors.md]]
+## [DC motors](Inglese/Unit%203%20-%20Electromagnetism%20and%20motors/DC%20motors.md)
 
-## [[AC motors.md]]
+## [AC motors](AC%20motors.md)
 
 
 ---
@@ -20,7 +20,7 @@ Speed and torque depend on the amount of electric current and voltage.
 
 
 ### Successivo
-[[Inglese/Unit 3 - Electromagnetism and motors/DC motors.md]]
-[[AC motors.md]]
-[[Electric cars.md]]
+[DC motors](Inglese/Unit%203%20-%20Electromagnetism%20and%20motors/DC%20motors.md)
+[AC motors](AC%20motors.md)
+[Electric cars](Electric%20cars.md)
 ### Riferimenti
